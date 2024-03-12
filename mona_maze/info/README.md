@@ -1,18 +1,9 @@
 # Information 
 ![ICE9Robotics](Ice9.png?raw=true "Ice9Robotics")
-## Example HTML 
-
-In this folder you will find a series of example HMTL script files which are examples of what the webscrapper should read, please use these to build your software to collect robot and ball poses before testing it on the arena.
-
-the format M1,10,10,2 is robot, X, Y, Theta (rotation)
-
-    G = Goal poses
-    C = Corner poses
-    B = ball pose
 
 ## Example Sketches
 
-This folder contins example sketches on how to use the MONA system, how to communicate between 2 NRF24 modules and other helpful sketches which you may find useful to use.
+This folder contins example sketches on how to use the MONA system, how to communicate between 2 NRF24 modules and other helpful sketches and resources which you may find useful to use.
 
 
 
