@@ -21,7 +21,7 @@ These are just some general ideas to get you started. Think outside the box and 
 
 Each Team will be provided with Sony's Spresense Kit
 
-### You will need produce a solution to help the Makerspace which uses the Spresense Kits. Each Team will be required to produce a small presentation which describes and demos their proposed solution, and answer some questions from the judges. The presentation can be up to a maximum of 5 minutes.
+### You will need produce a solution to help the Makerspace which uses the Spresense Kits. Each Team will be required to produce a small presentation which describes and demos their proposed solution, and answer some questions from the judges. The presentation & questions can be up to a maximum of 5 minutes.
 
 Each kit contains:
 - Sony Spresense Main Board
