@@ -20,7 +20,7 @@ Each Team will be provided with a robot kit provided by CRADLE which will have a
 
 The course has been designed to be represenative of the different scenarios which a rover might face during a mission.
 
-### You will need to design and construct a teleoperated rover which can be controlled via an operator at a PC without view of the robot (in space you can't watch it, have to use a camera mounted on the robot ;) ). You will need to create your own chassis for the robot and design it using the parts in the kit. The final challenge will be to navigate to a series of waypoints and capture and save images of markers at each point in the quickest and most control way. Their will be additional challenges at 23:00 and 04:00.
+### You will need to design and construct a teleoperated rover which can be controlled via an operator at a PC without view of the robot, in space you can't watch it, have to use a camera mounted on the robot ;). You will need to create your own chassis for the robot and design it using the parts in the kit. The final challenge will be to navigate to a series of waypoints and capture and save images of markers at each point in the quickest and most control way. Their will be additional challenges at 23:00 and 04:00.
 
 Each kit contains:
 - Arduino Uno and ESP32 Camera module
