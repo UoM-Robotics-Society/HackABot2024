@@ -21,18 +21,19 @@ These are just some general ideas to get you started. Think outside the box and 
 
 Each Team will be provided with Sony's Spresense Kit
 
-### You will need produce a solution to help the Makerspace which uses the Spresense Kits. Each Team will be required to produce a detailed presentation which describes and demos their proposed solution, annd answer some questions from the judges. The presentation can be up to a maximum of 5 minutes.
+### You will need produce a solution to help the Makerspace which uses the Spresense Kits. Each Team will be required to produce a small presentation which describes and demos their proposed solution, and answer some questions from the judges. The presentation can be up to a maximum of 5 minutes.
 
 Each kit contains:
 - Sony Spresense Main Board
 - Sony Spresense Extension Board
 - Sony Spresense Camera
+- SD card
 
 You will also have full access to the Robotics Society Inventory
 
 Useful links to information, websites and examples can be found in the [info](info) folder.
 
-Winners will get some awesome prizes.
+Winners will get some awesome prizes!
 
 All Teams get to keep their Sony's Spresense Kit but **must** return all inventory items 
 
