@@ -17,11 +17,11 @@ Many studies have looked at maze solving and complete mapping with use of swarm 
 
 Each team will be issued with 2 MONA robots, an Arduino Uno and 3 NRF24 radio modules to help in the challenge.
 
-3 mazes of a 5x5 grid (each square approx 120mmx 120mm) have been made for you to trial and perfect your swarm algorithms. Each slightly different with additonal complexity which will be in the final challenge maze. 
+3 mazes of a 5x5 grid (each square approx 120 mm x 120 mm) have been made for you to trial and perfect your swarm algorithms. Each slightly different with additonal complexity which will be in the final challenge maze. 
 
 2 identical final 7x7 grid mazes will be use to assess each teams swarm ability where the judges will look for quickest system to map the maze along which best graphical represenation of the mapped maze.
 
-The starting location of the MONA robots will be known in each case (0,0) and (4,4) for the 5x5 maze and (0,0) and (6,6) for the final maze. orientation of the robots is left to your choice.
+The starting location of the MONA robots will be known in each case (0,0) and (4,4) for the 5x5 maze and (0,0) and (6,6) for the final maze. The orientation of the robots is left to your choice.
 
 The suggested route would involve:
 -	Develop the odometry and localisation for controlling the robots
@@ -29,7 +29,7 @@ The suggested route would involve:
 -	PC-to-Robot communication
 -	Basic centralised swarm algorithm for control
 
-Only 1 teams can test at a time in each maze.
+Only 1 team can test at a time in each maze.
 
 Useful links to information, websites and examples can be found in the [info](info) folder.
 

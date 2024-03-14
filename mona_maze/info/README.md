@@ -3,7 +3,7 @@
 
 ## Example Sketches
 
-This folder contins example sketches on how to use the MONA system, how to communicate between 2 NRF24 modules and other helpful sketches and resources which you may find useful to use.
+This folder contains example sketches on how to use the MONA system, how to communicate between 2 NRF24 modules and other helpful sketches and resources which you may find useful to use.
 
 
 

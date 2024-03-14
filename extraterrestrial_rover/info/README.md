@@ -11,7 +11,7 @@
 
 
 ## Drivers
-- Search for AI Thinkwe ESP32-CAM to set up the ESP within the Arduino IDE.
+- Search for AI Thinker ESP32-CAM to set up the ESP within the Arduino IDE.
 - The board will come with some simple sketches to set up a video web server.
 - Servo library is included as default in the Arduino IDE.
-- You will need to google how to set up the Bluetooth module (hint: TX -> RX, RX -> TX)
+- You will need to google how to set up the Bluetooth module (hint: Bluetooth TX -> Arduino RX, Bluetooth RX -> Arduino TX)
