@@ -1,6 +1,6 @@
 # MakerBot
 
-![ms-student-society-projects-500x298](https://github.com/UoM-Robotics-Society/HackABot2024/assets/114879969/d67cf47f-33e8-4cd1-9ca1-a97f97b4de7e)
+<div align="center"> ![ms-student-society-projects-500x298](https://github.com/UoM-Robotics-Society/HackABot2024/assets/114879969/d67cf47f-33e8-4cd1-9ca1-a97f97b4de7e) </div>
 
 
 The Makerspace is an innovative environment that fosters creativity by bringing together individuals from diverse academic backgrounds to explore their hobbies. However, only opening in December 2022, they are still relatively new and are looking for interesting and intuitive ways they can improve the Makerspace to be the best it can be.
