@@ -15,3 +15,5 @@
 - The board will come with some simple sketches to set up a video web server.
 - Servo library is included as default in the Arduino IDE.
 - You will need to google how to set up the Bluetooth module (hint: Bluetooth TX -> Arduino RX, Bluetooth RX -> Arduino TX)
+- Bluetooth modules work on 9600 baud with their password as 1234
+- Each bluetooth module has the same name as your team number.
