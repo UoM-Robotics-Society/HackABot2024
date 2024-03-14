@@ -1,7 +1,9 @@
 # MakerBot
 
 The Makerspace is an innovative environment that fosters creativity by bringing together individuals from diverse academic backgrounds to explore their hobbies 
-[inset speil here]
+[inset speil here about how good it is]
+[insert speil here about sony spresense boards]
+
 
 Example Issues:
 - Capacity: The Makerspace has a maximum capacity of 50 occupants, therefore they are looking for a smart and easy way to identify when they have reached this limit.
