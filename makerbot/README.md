@@ -9,7 +9,7 @@ The Makerspace is an innovative environment that fosters creativity by bringing 
 Here are some example issues:
 - The makerspace has a maximum capcity of 50 occupants, how could we moniter this and ensure it does not exceed the limit?
 - Tool Inventory: Full of a wide-range of tools that people can use, sometimes they can be hard to kepe track of. Can you think of a way in order to intutively moniter the tools?
-- Sustainable Materials Recycyling: With rising environmental concerns, the Makerspace want to make sure they are being as energy efficient recycyling and reusing as many materals as possible. How could they track and reduce their energy consumption or possibly ensure materials are being recycled correctly?
+- Sustainable Materials Recycling: With rising environmental concerns, the Makerspace want to make sure they are being as energy efficient recycyling and reusing as many materals as possible. How could they track and reduce their energy consumption or possibly ensure materials are being recycled correctly?
 
 These are just some general ideas to get you started. Think outside the box and come up with your own ideas, and with the help of Sonys Spresense Board - a low-power microcontroller perfect for IoT applications - what solutions can you create to help the Makerspace?
 
