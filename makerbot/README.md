@@ -1,28 +1,26 @@
 # MakerBot
 
+![ms-student-society-projects-500x298](https://github.com/UoM-Robotics-Society/HackABot2024/assets/114879969/d67cf47f-33e8-4cd1-9ca1-a97f97b4de7e)
+
+
 The Makerspace is an innovative environment that fosters creativity by bringing together individuals from diverse academic backgrounds to explore their hobbies. However, only opening in December 2022, they are still relatively new and are looking for interesting and intuitive ways they can improve the Makerspace to be the best it can be.
-[inset speil here about how good it is]
-[insert speil here about sony spresense boards]
 
+Here are some example issues:
+- The makerspace has a maximum capcity of 50 occupants, how could we moniter this and ensure it does not exceed the limit?
+- Tool Inventory: Full of a wide-range of tools that people can use, sometimes they can be hard to kepe track of. Can you think of a way in order to intutively moniter the tools?
+- Sustainable Materials Recycyling: With rising environmental concerns, the Makerspace want to make sure they are being as energy efficient recycyling and reusing as many materals as possible. How could they track and reduce their energy consumption or possibly ensure materials are being recycled correctly?
 
-Example Issues:
-- Capacity: The Makerspace has a maximum capacity of 50 occupants, therefore they are looking for a smart and easy way to identify when they have reached this limit.
-- Tool Inventory: Full of a wide-range of tools that people can use, sometimes they go missing... Can you think of a way in order to intutively keep track of the tools?
-- Sustainable Materials Recycyling: With rising environmental concerns, the Makerspace want to make sure they are recycling and reusing as much supplies as they possibly can to reduce their carbon footprint
-- WelcomeBot: 
-  
-
-Feel free to think outside of the box and come up with your own interesting ideas!
+These are just some general ideas to get you started. Think outside the box and come up with your own ideas, and with the help of Sonys Spresense Board - a low-power microcontroller perfect for IoT applications - what solutions can you create to help the Makerspace?
 
 # Challenge
 
-## <div align="center"> Create a solution to assist with the running of the MakerSpace </div>
+## <div align="center"> Create a solution to help the MakerSpace </div>
 
 ## Info
 
 Each Team will be provided with Sony's Spresense Kit
 
-### You will need to design and create a unique solution to address some of the highlighted challenges the MakerSpace has. Each Team will be required to produce a detailed presentation which describes and demos their proposed solution, annd answer some questions from the judges. The presentation can be up to a maximum of 5 minutes.
+### You will need produce a solution to help the Makerspace which uses the Spresense Kits. Each Team will be required to produce a detailed presentation which describes and demos their proposed solution, annd answer some questions from the judges. The presentation can be up to a maximum of 5 minutes.
 
 Each kit contains:
 - Sony Spresense Main Board
