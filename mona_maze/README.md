@@ -1,4 +1,4 @@
-# MONA Background
+# <div align="center"> MONA MAZE </div>
 
 ![MONA](Mona.jpg?raw=true "MONA")
 
