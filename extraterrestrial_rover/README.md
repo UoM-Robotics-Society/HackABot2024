@@ -6,9 +6,9 @@ Robots which can survive in extreme environments is a every present challenge ma
 
 One of CRADLE's and Jacobs main ambitions is to develop technologies for these long-lasting and demanding environments with work looking at everything from the basic components used within a system to the architecture and assurance that the system will perform.
 
-It is key for those engineers working within the space to have the ability to develop unique solution to these harsh problems in a quick and effective way. A lot of hardware is available but who knows how it will fare in space? 
+It is key for those engineers working within the space to have the ability to develop unique solutions to these harsh problems in a quick and effective way. A lot of hardware is available but who knows how it will fare in space? 
 
-Resourcefulness and imagination to create something from a bare bones kit mixed with a little determination will see you through this challenge.
+Resourcefulness and imagination to create something from a bare-bones kit mixed with a little determination will see you through this challenge.
 
 # Challenge
 
@@ -18,19 +18,21 @@ Resourcefulness and imagination to create something from a bare bones kit mixed 
 
 Each Team will be provided with a robot kit provided by CRADLE which will have all the basic electrical components needed to create a Rover to carry out tasks taking place throughout the event.
 
-The course has been designed to be represenative of the different scenarios which a rover might face during a mission.
+The course has been designed to be representative of the different scenarios that a rover might face during a mission.
 
-### You will need to design and construct a teleoperated rover which can be controlled via an operator at a PC without view of the robot, in space you can't watch it, have to use a camera mounted on the robot ;). You will need to create your own chassis for the robot and design it using the parts in the kit. The final challenge will be to navigate to a series of waypoints and capture and save images of markers at each point in the quickest and most control way. Their will be additional challenges at 23:00 and 04:00.
+### You will need to design and construct a teleoperated rover which can be controlled via an operator at a PC without the view of the robot, in space you can't watch it, and have to use a camera mounted on the robot ;). You will need to create your chassis for the robot and design it using the parts in the kit. The final challenge will be to navigate to a series of waypoints and capture and save images of markers at each point in the quickest and most controlled way. There will be additional challenges at 23:00 and 04:00.
 
 Each kit contains:
 - Arduino Uno and ESP32 Camera module
-- Motor, wheels and Drive board
+- Motor, wheels and Drive Board
 - Bluetooth module
 - Batteries 
 - Assortment of additional components
 
 > These will be the only batteries you are given so don't drain them all before the final demo
 
+
+You will need to design and build your own chassis, we have wooden blanks, cardboard and 3D prints available for your team to use.
 
 Only 1 team can test at a time in the arena.
 
