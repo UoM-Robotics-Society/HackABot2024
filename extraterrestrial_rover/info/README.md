@@ -2,9 +2,9 @@
 
 ## General
 - It will be best to use the Arduino IDE for your development.
-- To connect the bluetooth module, you will need to solder on header pins to the Motor Driver Board, you will need to solder the analog, 5V and GND pins.
-- It will be best to use softwareSerial for connection of the Bluetooth module, you can use pins A0 and A1.
-- Be careful when powering the ESP32, it requires 3.3V.
+- To connect the Bluetooth module, you will need to solder the header pins to the Motor Driver Board, you will need to solder the analogue, 5V and GND pins.
+- It will be best to use softwareSerial to connect the Bluetooth module, you can use pins A0 and A1.
+- Be careful when powering the ESP32.
 - The ESP32 Camera is the AI Thinker ESP32-CAM.
 - Python and pygame could be useful for developing your teleoperator program (or you could do it all web-based or via a phone).
 - Each Bluetooth module has been renamed to your Kit Number.
@@ -16,4 +16,4 @@
 - Servo library is included as default in the Arduino IDE.
 - You will need to google how to set up the Bluetooth module (hint: Bluetooth TX -> Arduino RX, Bluetooth RX -> Arduino TX)
 - Bluetooth modules work on 9600 baud with their password as 1234
-- Each bluetooth module has the same name as your team number.
+- Each Bluetooth module has the same name as your team number.
