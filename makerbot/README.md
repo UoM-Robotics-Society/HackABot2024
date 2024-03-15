@@ -15,7 +15,7 @@ These are just some general ideas to get you started. Think outside the box and 
 
 # Challenge
 
-## <div align="center"> Create a solution to help the MakerSpace </div>
+## <div align="center"> Create a solution using the Spresense Hardware to help the MakerSpace </div>
 
 ## Info
 
