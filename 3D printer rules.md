@@ -13,12 +13,12 @@ Welcome to our 3D printing community! Whether you're a beginner or an experience
 - **Slicer Software**:
     - **Ultimaker Cura**: Download Ultimaker Cura for precise slicing and optimal print settings.
     - **Bambu Studio**: Get Bambu Studio for Bambu printer-specific slicing.
-
+    - **All models must be provided in STL format**
 ## Additional Rules
 
 - **Filament Type**: We use PLA (Polylactic Acid) filament. Handle it carefully and store it properly.
 
-- **Print File Submission**: Submit your print files to the Supervisor in the makerspace. Ensure your file adheres to the 4-hour print time limit.
+- **Print File Submission**: Submit your print files to the Supervisor in the makerspace. Ensure your file adheres to the **4-hour** print time limit.
 
 - **Time Check**: Verify that your print job falls within the allotted time before giving it to the supervisor.
 
