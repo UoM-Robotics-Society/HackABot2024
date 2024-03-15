@@ -39,7 +39,7 @@ When designing 3D models, keep the following in mind:
 - **Use Digital Tools**: Leverage 3D modeling software for precise designs.
 
 For more insights, check out this article on key design considerations for 3D printing.
-
+[https://www.hubs.com/knowledge-base/key-design-considerations-3d-printing/]
 Remember to prioritize safety, respect printing time, and enjoy your 3D printing journey! 🖨️🔧🌟
 
-Feel free to customize this README to suit your specific needs. Happy printing! 🚀
+
