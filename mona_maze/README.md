@@ -7,7 +7,7 @@ Swarm robotics is a field of research that explores the behaviour of large group
 
 One platform developed to enable researchers in this field were the MONA robots by the University of Manchester and sold by Ice9Robotics. These Arduino based differential drive robots can be used in many applications with a wide range of versatile features.
 
-Many studies have looked at maze solving and complete mapping with use of swarm robots, as centralised control can allow for multiple robots to work together to map a maze in reduced time, making the benefits of swarm robots outweight the additional complexity of the swarm. 
+Many studies have looked at maze solving and complete mapping with the use of swarm robots, as centralised control can allow for multiple robots to work together to map a maze in reduced time, making the benefits of swarm robots outweigh the additional complexity of the swarm. 
 
 # Challenge
 
@@ -17,9 +17,9 @@ Many studies have looked at maze solving and complete mapping with use of swarm 
 
 Each team will be issued with 2 MONA robots, an Arduino Uno and 3 NRF24 radio modules to help in the challenge.
 
-3 mazes of a 5x5 grid (each square approx 120 mm x 120 mm) have been made for you to trial and perfect your swarm algorithms. Each slightly different with additonal complexity which will be in the final challenge maze. 
+3 mazes of a 5x5 grid (each square approx 120 mm x 120 mm) have been made for you to trial and perfect your swarm algorithms. Each is slightly different with additional complexity which will be in the final challenge maze. 
 
-2 identical final 7x7 grid mazes will be use to assess each teams swarm ability where the judges will look for quickest system to map the maze along which best graphical represenation of the mapped maze.
+2 identical final 7x7 grid mazes will be used to assess each teams swarm ability where the judges will look for the quickest system to map the maze along which best graphical representation of the mapped maze.
 
 The starting location of the MONA robots will be known in each case (0,0) and (4,4) for the 5x5 maze and (0,0) and (6,6) for the final maze. The orientation of the robots is left to your choice.
 
@@ -35,17 +35,17 @@ Useful links to information, websites and examples can be found in the [info](in
 
 For extra points, each team can fill out the MONA robot survey to provide feedback on the robots to help future development.
 
-Winners will get prizes as well as their solution being hosted on the Ice9Robotics GitHub for people to reference in CV, LinkedIn and other mediums.
+Winners will get prizes as well as their solution will be hosted on the Ice9Robotics GitHub for people to reference in CV, LinkedIn and other mediums.
 
 
 ## Rules/Equipment:
 -	Teams can use any resources online or otherwise to help them accomplish the task. 
 -	Teams are not allowed to remove the plastic battery cover.
 -	Teams are allowed to operate the robots on any table surface, on the ground away from foot traffic, or in the arena.
--	Teams are allowed to modify and add things to the MONA robots to help improve there chances given it doesn’t damage the system (this will likely not be very useful this year).
--	If the system or the battery become damaged in anyway report it to a supervisor (blue shirt) and they will assist.
+-	Teams are allowed to modify and add things to the MONA robots to help improve their chances given it doesn’t damage the system (this will likely not be very useful this year).
+-	If the system or the battery becomes damaged in any way report it to a supervisor (blue shirt) and they will assist.
 -	Teams will have access to anything in the inventory which they may use in their solution.
--	Speed is key, you must use 2 robots for the mapping purpose.
+-	Speed is key, you must use 2 robots for mapping purposes.
 -	The MONAs can not be teleoperated, all solutions must be autonomous.
 
 
