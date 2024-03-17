@@ -1,3 +1,9 @@
+## Current Standings
+1. Team 17
+2. Team 16
+3. Team 15
+
+
 # Extraterrestrial Rover
 
 ![Rover](Rover.jpg?raw=true "Perseverance Rover https://mars.nasa.gov/mars2020/")
