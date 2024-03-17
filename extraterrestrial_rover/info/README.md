@@ -17,3 +17,5 @@
 - You will need to google how to set up the Bluetooth module (hint: Bluetooth TX -> Arduino RX, Bluetooth RX -> Arduino TX)
 - Bluetooth modules work on 9600 baud with their password as 1234
 - Each Bluetooth module has the same name as your team number.
+
+[Click here for a tutorial for a good video stream from your camera](https://randomnerdtutorials.com/esp32-cam-access-point-ap-web-server/#:~:text=To%20connect%20to%20the%20access,4.1%20in%20your%20browser)
