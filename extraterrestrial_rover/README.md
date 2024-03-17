@@ -22,6 +22,9 @@ The course has been designed to be representative of the different scenarios tha
 
 ### You will need to design and construct a teleoperated rover which can be controlled via an operator at a PC without the view of the robot, in space you can't watch it, and have to use a camera mounted on the robot ;). You will need to create your chassis for the robot and design it using the parts in the kit. The final challenge will be to navigate to a series of waypoints and capture and save images of markers at each point in the quickest and most controlled way. There will be additional challenges at 23:00 and 04:00.
 
+## Task 2: Ball Pushing Challenge
+
+### You will have to push ping-pong balls up the ramp into the pit from around the arena. You will get extra points for using your camera and extra points for automatically identifying the colour of the ball you are pusing.  
 <br>
   
 ### Your first challenge is to build your basic rover and drive along a line around the obstacle course at 23:00.
